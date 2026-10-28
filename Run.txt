@@ -1,0 +1,14 @@
+commands to run:
+
+ollama serve
+
+ollama list
+
+ollama run llama3.2
+
+cd ~/Desktop/github/llm
+source env/bin/activate
+
+./env/bin/python -m streamlit run start.py
+
+./env/bin/python -m pip install streamlit
