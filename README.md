@@ -24,3 +24,7 @@ Open-Meteo Weather API
 Weather Data
 
 Weather information is retrieved from Open-Meteo.
+
+This is an overview of what the project looks like:
+<img width="1440" height="900" alt="Screenshot 2026-10-28 at 9 08 06 PM" src="https://github.com/user-attachments/assets/8da5e78a-866e-44ad-9eab-9490ce0a5206" />
+
